@@ -4,6 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 trying to become a Mobile App Developer
 ---------------------------------------
 
+<p align="center">
+  <img src="./985c908c4f92141b1ca1351de90f57e0.jpg"
+       alt="Tooread Homepage"
+       width="55%">
+</p>
+
 I'm a student working towards becoming a Mobile App Developer.
 
 I'm not the best at studying, and I still have a lot to learn. I also work part-time jobs outside of my field, but I'm doing my best to improve myself step by step.
